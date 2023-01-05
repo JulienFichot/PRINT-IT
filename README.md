@@ -1,2 +1,1 @@
-# PRINTIT
- Mise en place d'un carrousel sur un site statique
+# Print-It WebSite v.1
